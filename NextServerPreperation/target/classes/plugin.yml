@@ -1,0 +1,6 @@
+name: Plugin2
+version: 1.0-SNAPSHOT
+main: nextserver.plugin2.Plugin2
+api-version: 1.16
+authors: [ Roosterseatyou ]
+description: Plugin for next Update
